@@ -1,1 +1,1 @@
-    loadstring(game:HttpGet("https://gist.githubusercontent.com/Hynka28/65bb5988ab92eed608d2682ff29ceff5/raw/ecb32ad28752cd055c794cd80b2ed49e0ee5c71a/Axoty.lua"))()
+    loadstring(game:HttpGet("https://gist.githubusercontent.com/Hynka28/65bb5988ab92eed608d2682ff29ceff5/raw/6fb988e17e91498d3c97b760c7ba43db719e110c/Axoty.lua"))()
